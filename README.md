@@ -1,1 +1,3 @@
-# online-dsp-be
+# Template for nodejs projects
+
+### pending describe all librarys....
